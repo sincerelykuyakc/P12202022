@@ -4,7 +4,7 @@
             <h4>Contact</h4>
             <p><strong>Address:</strong></p>
             <p><strong>Phone:</strong></p>
-            <p><strong>Hours:</strong></p>
+            <p><strong>Hours: Monday - Friday 8:30 am - 11:30 pm, Saturday- Sunday Closed or Unavailable </strong></p>
             <div class="follow">
                 <h4>Follow Us</h4>
                 <div class="icon">
