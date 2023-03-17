@@ -2,8 +2,8 @@
         <div class="col">
             <img class="logo" src="/assets/187807B2-C37E-4E42-992A-1A6D4A5F8E8C.png" alt="Logo">
             <h4>Contact</h4>
-            <p><strong>Address:</strong></p>
-            <p><strong>Phone:</strong></p>
+            <p><strong>Address: 789 Kraken Avenue</strong></p>
+            <p><strong>Phone: 1- 143- 789- 8008 </strong></p>
             <p><strong>Hours: Monday - Friday 8:30 am - 11:30 pm, Saturday- Sunday Closed or Unavailable </strong></p>
             <div class="follow">
                 <h4>Follow Us</h4>
